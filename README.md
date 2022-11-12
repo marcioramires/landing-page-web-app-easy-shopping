@@ -1,6 +1,6 @@
 # Easy Shopping Landing Page / Web App
 
-Projeto da página principal/landing page (aplicaçãl web) de uma loja.
+Projeto da página principal/landing page (aplicação web) de uma loja.
 #
 ![Screenshot 2022-11-12 195936](https://user-images.githubusercontent.com/113479357/201497919-4700813b-de67-48cc-85df-4efd7d9b457e.png)
 #
